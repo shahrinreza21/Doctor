@@ -343,7 +343,7 @@ body{
     grid-gap: 25px
 }
 .services_content{
-    margin-top: 20px;
+    margin-top: 50px;
 }
 .services_content p{
     font-size: 13px;
@@ -386,7 +386,7 @@ body{
     
 }
 .serviceswrapper_icon{
-    margin-top: 20px;
+    margin-top: 50px;
     height: 204px;
 }
 
@@ -409,7 +409,7 @@ body{
     color: #c00a11;
 }
 .vedio_image{
-    margin-top: 20px;
+    
     
     
 }
@@ -419,6 +419,7 @@ body{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(2,1fr);
+    margin-top: 50px;
 }
 .single_image{
     border: 3px solid #fff;
